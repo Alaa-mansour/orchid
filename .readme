@@ -1,0 +1,9 @@
+# to tun the api
+
+npm run watch
+
+# and in another terminal
+
+npm run dev
+
+The project is running on: http://localhost:4000/graphql
